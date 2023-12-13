@@ -1,4 +1,4 @@
-FROM nossah56/WWWL5:slim-buster
+FROM nossah56/WWWL5-main:slim-buster
 
 RUN git clone https://github.com/nossah56/WWWL5-main.git /root/WWWL5
 
